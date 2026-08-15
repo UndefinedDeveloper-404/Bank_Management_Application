@@ -242,29 +242,6 @@ The current implementation stores passwords locally for demonstrating C++ file h
 * Audit logging
 * Secure communication
 
-## 📸 Screenshots
-
-### Main Menu
-![Main Menu](screenshot/main-menu.png)
-
-### Create Account
-![Create Account](screenshot/create-account.png)
-
-### Customer Login
-![Customer Login](screenshot/login.png)
-
-### Deposit
-![Deposit](screenshot/deposit.png)
-
-### Withdrawal
-![Withdrawal](screenshot/withdrawal.png)
-
-### Balance Check
-![Balance Check](screenshot/balance.png)
-
-### Logout
-![Logout](screenshot/logout.png)
-
 ## 👨‍💻 Project Type
 
 **Academic C++ Mini Project**
