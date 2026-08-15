@@ -245,25 +245,25 @@ The current implementation stores passwords locally for demonstrating C++ file h
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshot/main-menu.png)
 
 ### Create Account
-![Create Account](screenshots/create-account.png)
+![Create Account](screenshot/create-account.png)
 
 ### Customer Login
-![Customer Login](screenshots/login.png)
+![Customer Login](screenshot/login.png)
 
 ### Deposit
-![Deposit](screenshots/deposit.png)
+![Deposit](screenshot/deposit.png)
 
 ### Withdrawal
-![Withdrawal](screenshots/withdrawal.png)
+![Withdrawal](screenshot/withdrawal.png)
 
 ### Balance Check
-screenshort/balance.png
+![Balance Check](screenshot/balance.png)
 
 ### Logout
-![Logout](screenshots/logout.png).
+![Logout](screenshot/logout.png)
 
 ## 👨‍💻 Project Type
 
