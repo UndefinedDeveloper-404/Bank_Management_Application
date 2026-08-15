@@ -260,7 +260,7 @@ The current implementation stores passwords locally for demonstrating C++ file h
 ![Withdrawal](screenshots/withdrawal.png)
 
 ### Balance Check
-![Balance Check](screenshots/balance.png)
+screenshort/balance.png
 
 ### Logout
 ![Logout](screenshots/logout.png).
